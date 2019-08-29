@@ -38,23 +38,6 @@ PrefsVaultGUID=
 PrefsRevisionGUID=
 
 [Document1]
-DocumentPath=..\Candunio.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=WBWXYGIB
-
-[Document2]
 DocumentPath=400ETB.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -71,7 +54,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=CEKCCPYD
 
-[Document3]
+[Document2]
 DocumentPath=400ETBV4.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -88,24 +71,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PBMAPJWS
 
-[Document4]
-DocumentPath=..\Electronic Throttle Body (ETB)-20190805T040656Z-001\Electronic Throttle Body (ETB)\Sad\MECH400_ETB\400ETB.OutJob
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document5]
+[Document3]
 DocumentPath=MECH400ETB.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -122,7 +88,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=SPELXTPQ
 
-[Document6]
+[Document4]
 DocumentPath=400ETB_SchematicLib.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -139,13 +105,39 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FCFXDHEW
 
-[GeneratedDocument1]
-DocumentPath=..\Electronic Throttle Body (ETB)-20190805T040656Z-001\Electronic Throttle Body (ETB)\Sad\MECH400_ETB\Project Outputs for MECH400_ETB\Design Rule Check - 400ETBV3.html
+[Document5]
+DocumentPath=Candunio.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
 DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=WBWXYGIB
 
-[GeneratedDocument2]
-DocumentPath=..\Electronic Throttle Body (ETB)-20190805T040656Z-001\Electronic Throttle Body (ETB)\Sad\MECH400_ETB\Project Outputs for MECH400_ETB\Design Rule Check - 400ETBV4.html
+[Document6]
+DocumentPath=Candunio.IntLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
 DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
 
 [Configuration1]
 Name=Default Configuration
