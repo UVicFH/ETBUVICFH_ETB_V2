@@ -1,0 +1,19 @@
+Removed Pin From Net: NetName=GND Pin=J1-0
+Removed Pin From Net: NetName=GND Pin=J1-0
+Removed Pin From Net: NetName=GND Pin=J1-0
+Removed Pin From Net: NetName=GND Pin=J1-0
+Removed Pin From Net: NetName=GND Pin=J1-0
+Removed Pin From Net: NetName=GND Pin=J1-0
+Removed Pin From Net: NetName=GND Pin=J1-0
+Removed Pin From Net: NetName=GND Pin=J1-0
+Removed Pin From Net: NetName=NetF1_2 Pin=J1-1
+Removed Pin From Net: NetName=USBD- Pin=J1-2
+Removed Pin From Net: NetName=USBD+ Pin=J1-3
+Removed Pin From Net: NetName=GND Pin=J1-5
+Removed Member From Class: ClassName=Candunio Member=J1
+Added Component: Designator=P4(USB MICRO B THRU)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=NetF1_2 Pin=P4-1
+Added Pin To Net: NetName=USBD- Pin=P4-2
+Added Pin To Net: NetName=USBD+ Pin=P4-3
+Added Member To Class: ClassName=Candunio Member=Component P4 USB_MICRO_B
