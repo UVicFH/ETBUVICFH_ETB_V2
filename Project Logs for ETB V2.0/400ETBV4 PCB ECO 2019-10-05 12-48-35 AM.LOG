@@ -1,0 +1,6 @@
+Added Component: Designator=P20(MX150L 6pin)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Molex"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "19427-0018"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "WM17506-ND"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=400ETB Member=Component P20 19427-0018

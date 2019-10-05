@@ -1,0 +1,19 @@
+Added Component: Designator=P4(1050170001)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Details"; Value = "Modified from reference footprint for standard drill hits (rather than slots)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part number"; Value = "WM1399CT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "609-4618-1-ND"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=P4-0
+Added Pin To Net: NetName=GND Pin=P4-0
+Added Pin To Net: NetName=GND Pin=P4-0
+Added Pin To Net: NetName=GND Pin=P4-0
+Added Pin To Net: NetName=GND Pin=P4-0
+Added Pin To Net: NetName=GND Pin=P4-0
+Added Pin To Net: NetName=GND Pin=P4-0
+Added Pin To Net: NetName=GND Pin=P4-0
+Added Pin To Net: NetName=NetF1_2 Pin=P4-1
+Added Pin To Net: NetName=USBD- Pin=P4-2
+Added Pin To Net: NetName=USBD+ Pin=P4-3
+Added Pin To Net: NetName=GND Pin=P4-5
+Added Member To Class: ClassName=Candunio Member=Component P4 USB micro B
